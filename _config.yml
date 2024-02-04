@@ -1,1 +1,5 @@
-
+title: Frontend Coursera
+description: Everything I am Learning on Frontend.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-architect
