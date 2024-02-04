@@ -1,2 +1,2 @@
-# Frontend-Coursera
+# Frontend Coursera
 Everything frontend on Coursera
